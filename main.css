@@ -1,0 +1,54 @@
+body {
+  background-color: #DDD;
+  margin: 0;
+  font-size: 100%;
+}
+
+#mainBlock {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #FFF;
+}
+
+#titleBlock {
+  float: left;
+  width: 500px;
+  height: 60px;
+  margin: 0 auto;
+}
+
+#titleBlock p {
+  font-size: 9px;
+  color: #999;
+  margin-left: 20px;
+  margin-top: 4px;
+}
+
+#menuBlock {
+  float: right;
+  width: 400px;
+  height: 60px;
+  margin: 0 auto;
+  text-align: right;
+}
+
+#menuBlock select {
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+#legendBlock {
+  font-size: 0.6rem;
+}
+
+#legendBlock rect {
+  stroke-width: 0.2px;
+  stroke: black;
+}
+
+h1 {
+  font-size: 18px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
