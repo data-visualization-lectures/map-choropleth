@@ -1,7 +1,7 @@
 # データビジュアライゼーション講習用ソースコード
 ## コロプレス・マップ
 
-![コロプレス・マップ](/Users/Shared/Dropbox/prj_DataVizClass/ソースコード/map-choropleth/preview.jpg)
+![コロプレス・マップ](preview.jpg)
 
 ### 使用コース
 - 【D3.js】GeoJsonファイルとテーマデータを読み込み、主題図の作成
